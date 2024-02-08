@@ -1,5 +1,5 @@
 Linked
-mklink /D C:\Users\%USERNAME%\AppData\Roaming\Elgato\StreamDeck\Plugins\com.adambardsley.deckie.sdPlugin %cd%\src\com.adambardsley.deckie
+?mklink /D C:\Users\%USERNAME%\AppData\Roaming\Elgato\StreamDeck\Plugins\com.adambardsley.deckie.sdPlugin %cd%\src\com.adambardsley.deckie
 
 based on 
 
