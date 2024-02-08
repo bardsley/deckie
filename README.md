@@ -1,3 +1,7 @@
+Linked
+mklink /D C:\Users\%USERNAME%\AppData\Roaming\Elgato\StreamDeck\Plugins\com.adambardsley.deckie.sdPlugin %cd%\src\com.adambardsley.deckie
+
+based on 
 
 # Stream Deck Plugin Template
 
